@@ -29,8 +29,8 @@ O padrão **Strategy** permite definir uma família de algoritmos, encapsulá-lo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/matheusrodrisantos/strategy-example.git
+   cd strategy-example
    ```
 
 2. Execute o projeto:
